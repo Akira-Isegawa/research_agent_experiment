@@ -45,3 +45,6 @@ Thumbs.db
 
 # 出力結果（ai_agent_researchは公開する）
 outputs/
+
+# Reports
+SearchAgentReport.md
